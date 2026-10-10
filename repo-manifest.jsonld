@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-report/commit/344d0f299c4a615db3e7ca33dc7ce421e4fe7a1a",
       "git:hexsha": "344d0f299c4a615db3e7ca33dc7ce421e4fe7a1a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-report/commit/f4071b3a6ef44d3d28007553e7b718521e3c2701",
